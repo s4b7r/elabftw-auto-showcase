@@ -1,0 +1,9 @@
+channels:
+  - defaults
+dependencies:
+  - jupyterlab=4.0.11
+  - python=3.11.7
+  - python-dotenv=0.21.0
+  - pip=23.3.1
+  - pip:
+      - elabapi-python==5.0.2

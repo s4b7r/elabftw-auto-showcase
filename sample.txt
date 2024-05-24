@@ -1,0 +1,2 @@
+magnitude=2
+sample_id=3

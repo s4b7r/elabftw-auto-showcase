@@ -1,5 +1,7 @@
 # eLabFTW Automation Show Case
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/s4b7r/elabftw-auto-showcase/HEAD?labpath=data_acquisition_example.ipynb)
+
 This is an example how you can extract metadata from "some file" (e.g. the raw data file of a measurement), and create a new experiment entry with it in your eLabFTW instance.
 
 ## Requirements / Setup
@@ -14,7 +16,7 @@ If you have your own conda installation, you can use the following command to cr
 conda env create -f environment.yml -n lab-test
 ```
 
-If you do not have a Python environment at hand, ... sorry, I am still working on the mybinder environment.
+If you do not have a Python environment at hand, use the binder lunch badge at the top of this document. However, your eLabFTW instance must be accessible from the internet then.
 
 ## Technicalities
 
